@@ -1,7 +1,5 @@
 testing hi
-
 welcome to the gorilla legacy Yo!
 this is a project i started for fun, and you're beta testing it!
-
 developed by garrot jumbleton
 along with my pal papa skittle
